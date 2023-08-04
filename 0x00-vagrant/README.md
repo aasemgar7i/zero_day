@@ -1,0 +1,1 @@
+The command uname prints information about the operating system and hardware platform
